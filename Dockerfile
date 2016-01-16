@@ -13,6 +13,7 @@ RUN apt-get update && \
         python-pip \
         git-core \
         libopencv-dev \
+        postgresql-9.4 \
         python-opencv \
         python-numpy
 
